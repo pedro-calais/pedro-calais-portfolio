@@ -6,7 +6,7 @@ export const profile = {
   timezone: "",
   bio: "Dev desde os 16 anos e estudante de Ciência da Computação, com experiência em desenvolvimento de sistemas, automação de processos e análise de dados. Atuação com Python, JavaScript, TypeScript e SQL no desenvolvimento de APIs, integrações, dashboards e soluções voltadas à eficiência operacional.",
   available: true,
-  tags: ["Full Stack Developer", "Data Analyst", "Business Intelligence"],
+  tags: ["Desenvolvedor Full Stack", "Soluções com Inteligência Artificial"],
   stack: ["Python", "TypeScript", "Node.js", "MySQL", "Docker", "Vercel", ],
   email: "pedroalbuquerquecalais@gmail.com",
   phone: "+5531993579590",
@@ -14,7 +14,7 @@ export const profile = {
     linkedin: "https://www.linkedin.com/in/pedro-henrique-albuquerque-calais-2b7242289/",
     github: "https://github.com/pedrohenriquecalais",
     youtube: "",
-    cv: "/cv.pdf",
+    cv: "/docs/Curriculo_PedroCalais_2026.docx",
     whatsapp: "https://wa.me/5531993579590",
   },
 };

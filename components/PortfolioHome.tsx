@@ -431,7 +431,7 @@ export default function PortfolioHome() {
             {([
               { href: profile.socials.linkedin, Icon: Link, label: "LinkedIn", sub: "@pedrohenriquecalais", external: true },
               { href: profile.socials.github, Icon: GitFork, label: "GitHub", sub: "@pedrohenriquecalais", external: true },
-              { href: profile.socials.cv, Icon: FileText, label: "Currículo", sub: "PDF", external: false },
+              { href: profile.socials.cv, Icon: FileText, label: "Currículo", sub: "Download", external: false },
               { href: profile.socials.whatsapp, Icon: Phone, label: "WhatsApp", sub: "Mensagem direta", external: true },
             ] as const).map(({ href, Icon, label, sub, external }) => (
               <a
